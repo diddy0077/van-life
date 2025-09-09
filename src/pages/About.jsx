@@ -1,6 +1,6 @@
 import React from "react";
 import Nav from "../components/Nav";
-import about from "../assets/about.png";
+import about from "../assets/about.webp";
 function About() {
   return (
     <div className="bg-nav">
