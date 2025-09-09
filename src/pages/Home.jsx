@@ -1,6 +1,6 @@
 import React from 'react'
 import Nav from '../components/Nav'
-import home from '../assets/home.png'
+import home from '../assets/home.webp'
 
 function Home() {
   return (
