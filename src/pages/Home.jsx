@@ -1,11 +1,9 @@
 import React from 'react'
-import Nav from '../components/Nav'
 import home from '../assets/home.webp'
 
 function Home() {
   return (
     <div>
-      <Nav />
       <section
         id="hero"
         className="p-6 w-full min-h-screen flex items-center justify-center flex-col relative" // ensure it has enough height
